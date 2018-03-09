@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "a burger app that's for burger lovers!",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliechen321/burger.git"
+  },
+  "author": "ellie chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliechen321/burger/issues"
+  },
+  "homepage": "https://github.com/elliechen321/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "install": "^0.10.4",
+    "mysql": "^2.15.0",
+    "npm": "^5.7.1"
+  }
+}
