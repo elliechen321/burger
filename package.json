@@ -4,14 +4,14 @@
   "description": "a burger app that's for burger lovers!",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elliechen321/burger.git"
   },
-  "author": "ellie chen",
+  "author": "Ellie Chen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/elliechen321/burger/issues"
